@@ -1,6 +1,3 @@
-const indexjs = require('./src/index');
-
-
 module.exports = {
   mode: "development",
 
@@ -10,7 +7,4 @@ module.exports = {
     path: __dirname + '/public',
     filename: 'bundle.js'
   }
-
 }
-
-
