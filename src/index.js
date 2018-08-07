@@ -18,3 +18,6 @@ marker.style.backgroundImage = "url(http://i.imgur.com/WbMOfMl.png)";
 new mapboxgl.Marker(marker).setLngLat([-87.641, 41.895]).addTo(map);
 
 newMarker([-87.5, 41.9], "hotel").addTo(map);
+
+
+
